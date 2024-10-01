@@ -40,8 +40,7 @@ Calculator_app/
    git clone https://github.com/An-Tony-1/Python-Calculator.git
    cd calculator_app
 
-2. Ensure you have Tkinter installed. It's typically included with standard Python installations, but if you're on Linux, you may need to install it separately.
-
+2. Ensure you have Tkinter installed. It's typically included with standard Python installations.
 3. Run the application:
     "python main.py"
 
