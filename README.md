@@ -63,6 +63,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 Feel free to add any additional features you've implemented or any specific information relevant to your project.
 
 
-Author
-Collins Chukwuebuka Anthony
-collinsanthony748@gmail.com
+## Author
+# Collins Chukwuebuka Anthony
+# collinsanthony748@gmail.com
