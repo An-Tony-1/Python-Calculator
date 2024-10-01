@@ -64,5 +64,5 @@ Feel free to add any additional features you've implemented or any specific info
 
 
 ## Author
-# Collins Chukwuebuka Anthony
-# collinsanthony748@gmail.com
+### Collins Chukwuebuka Anthony
+### collinsanthony748@gmail.com
